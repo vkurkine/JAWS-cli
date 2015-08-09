@@ -16,7 +16,7 @@ Install globally with npm so you can use it in all of your JAWS projects.
 
 The JAWS CLI Commands and other documentation is all consolidated into the main JAWS repo.
 
-##### [Click here to go to the JAWS CLI Documentation](https://github.com/jaws-stack/JAWS)
+##### [Click here to go to the JAWS CLI Documentation](https://github.com/jaws-stack/JAWS#cli)
 
 
 
