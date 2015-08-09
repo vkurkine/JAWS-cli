@@ -1,4 +1,4 @@
-![JAWS stack javascript aws node.js express auroradb dynamodb lambda](https://github.com/servant-app/JAWS/blob/master/site/public/img/jaws_logo_javascript_aws.png)
+![JAWS stack javascript aws node.js express auroradb dynamodb lambda](https://github.com/jaws-stack/JAWS-cli/blob/master/jaws_command_line_interface_logo.png)
 
 The JAWS Command Line Interface
 =================================
