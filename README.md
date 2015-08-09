@@ -5,3 +5,9 @@ The JAWS Command Line Interface
 
 This is the Command Line Interface module for the JAWS stack.
 
+#### Installation
+
+Install globally with npm so you can use it in all of your JAWS projects.
+
+	npm install jaws-cli -g
+
